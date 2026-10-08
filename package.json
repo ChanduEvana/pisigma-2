@@ -1,0 +1,9 @@
+{
+  "name": "pisigma-2",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix scout-login start",
+    "start": "npm --prefix scout-login start"
+  }
+}
